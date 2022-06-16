@@ -1,5 +1,16 @@
+# Documentation Log:
+https://daveceddia.com/usestate-hook-examples/#:~:text=useState%20returns%20an%20array%20with,the%20component%20will%20re%2Drender.
+
+UseState is a React Hook 
+
+
+
+
+
+
 # Getting Started with Create React App
 IMPORTANT: https://github.com/gitname/react-gh-pages 
+clear cache to trigger changes (or empty commit (q. mark))
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
