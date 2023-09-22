@@ -1,10 +1,44 @@
 # Documentation Log:
+https://www.youtube.com/watch?v=I2UBjN5ER4s 
+
 https://daveceddia.com/usestate-hook-examples/#:~:text=useState%20returns%20an%20array%20with,the%20component%20will%20re%2Drender.
 
 UseState is a React Hook 
 
 
+* {
+    box-sizing: border-box;
+}
 
+
+
+body {
+    margin: 0;
+}
+
+.navbar {
+    background-color: rgb(186, 62, 62);
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 2rem; /*represents how large the rows and cols are (one square)*/
+    padding: 0 10rem
+
+}
+
+.navbar ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+.navbar a {
+    color: inherit;
+    
+}
 
 
 
